@@ -18,7 +18,7 @@ Modelos de Nuvem/Clound
   - __Multiplataforma:__
     Engloba todos o modelos com o acréscimo que você utiliza diversas nuvens diferentes, como misturar AWS com Azure, eentre outras.
     
-___A Multiplataforma é apenas citada, pois não fazer parte da prova de certificação AC-900.___
+___A Multiplataforma é apenas citada, pois não fazer parte da prova de certificação AZ-900.___
 
 # Diferença de CapEx e OpEx
   - __CapEx:__
