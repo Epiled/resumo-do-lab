@@ -43,3 +43,12 @@ ___A Multiplataforma é apenas citada, pois não fazer parte da prova de certifi
   Auditoria automatizada que sinaliza recursos fora das conformidades dos padrões corporativos. Também fornece estratégias de mitigação, monitora o uso de recursos e garante a conformidade com regulamentações de segurança e privacidade.
   - __Gerenciabilidade__
   A nuvem oferece várias ferramentas para gerenciamento de recursos, como APIs, PowerShell, e interfaces de portal, permitindo flexibilidade no gerenciamento da infraestrutura em nuvem.
+
+# Tipos de Serviços de Nuvem Azure
+  - __IaaS (Infraestrutura como Serviço)__
+    A Nuvem fornecerá a infraestrutura digital, como máquinas virtuais, armazenamento e rede. Nesse modelo, o cliente gerencia o sistema operacional, as aplicações e tem maior controle sobre o ambiente.
+  - __PaaS (Plataforma como Serviço)__
+  A Nuvem fornecerá um ambiente completo de desenvolvimento, onde desenvolvedores podem construir e implantar aplicações sem a necessidade de gerenciar a infraestrutura, facilitando o desenvolvimento ágil.
+  - __SaaS (Software como Serviço)__
+  Permite o uso de software hospedado na nuvem, acessado pela internet. O provedor é responsável pela manutenção, infraestrutura, atualizações e segurança.
+
